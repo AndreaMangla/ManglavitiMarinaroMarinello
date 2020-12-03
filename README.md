@@ -5,4 +5,4 @@
 
 >OneDrive Link for DD: not present
 
->Note: OneDrive shows the revision history of the document and the changes of each member
+>Note: OneDrive shows the revision history of the document and the changes made by each member
