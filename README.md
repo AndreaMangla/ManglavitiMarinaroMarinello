@@ -1,7 +1,7 @@
 # ManglavitiMarinaroMarinello - CLup Project
 
 ## About The Documents
->OneDrive Link for RASD: https://polimi365-my.sharepoint.com/:f:/g/personal/10620761_polimi_it/EvsU7DdPECBKivs8buVFz3oBOEDnIgiXFN4TMhhZR3_zIA?e=8kw5Cl
+>OneDrive Link for RASD: https://polimi365-my.sharepoint.com/:f:/g/personal/10620761_polimi_it/EvsU7DdPECBKivs8buVFz3oBOEDnIgiXFN4TMhhZR3_zIA?e=iXE3DS
 
 >OneDrive Link for DD: not present
 
